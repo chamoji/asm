@@ -1,3 +1,4 @@
 asm
 
-AWESOME
+# endian.c
+Simple C program to check endianness.
